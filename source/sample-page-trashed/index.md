@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: Index Page
 id: '2'
 tags: []
 categories:
